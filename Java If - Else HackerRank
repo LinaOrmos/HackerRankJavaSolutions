@@ -16,3 +16,24 @@
 //Output format
 //Print Weird if the number is weird; otherwise, print Not Weird
 
+import java.io.*;
+import java.math.*;
+import jav.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.regex.*;
+
+Public class Solution{
+     
+     Private static finale Scanner scanner = new Scanner(System.in);
+     
+     public static void main(String[] args){
+     Int N = scanner.nextInt();
+     scanner.skip("(\r\n|[\n\r\u08\u2029\u0085}])?");
+     
+     
+     }
+
+}
+
