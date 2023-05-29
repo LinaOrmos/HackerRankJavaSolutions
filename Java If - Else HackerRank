@@ -30,10 +30,21 @@ Public class Solution{
      
      public static void main(String[] args){
      Int N = scanner.nextInt();
-     scanner.skip("(\r\n|[\n\r\u08\u2029\u0085}])?");
      
+     // \n is LF or line Feed or NewLine
+     // \r is CR or Carriage Return
+     // \r\n CR=LF is used in Windows as NewLine Sequence
+     // U=0085 NEL is the Unicode character for Next Line
+     // U+2028 is the Unicode character for Line Separator
+     // U=2029 is the Unicode character for Paragraph Separator
+     
+     scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085}])?");
+     
+     scanner.close();
      
      }
+//here whe must add the if statement
+
 
 }
 
