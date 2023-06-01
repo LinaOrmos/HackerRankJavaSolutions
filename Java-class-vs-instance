@@ -31,8 +31,20 @@ Public void yearsPassess(){
 
 public static void main(string[]args {
 
+Scanner sc = new Scanner(System.in);
+int T =sc.netInt();
+for (int i = 0; i < T; i++){
+int age = sc.nextInt();
+Person p + neew Person(age);
+p.amIold();
+for (int j=0 ; i j<3; j++){
+p.yearPassess();
+}
+p.amIold();
+System.out.println();
 
-
+}
+sc.close();
 
 }
 
