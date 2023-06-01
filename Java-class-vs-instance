@@ -10,3 +10,31 @@
 //If age<13, print You are young..
 //If  >= 13 and age <18, print You are a teenager..
 //Otherwise, print You are old..
+
+//import java.io.*;
+public class Person {
+     private int age,
+     Public Person(int initialAge){
+//Add some more ode to run some...
+
+}
+
+Public void amIold(){
+//Write code determining if this
+
+System.out.println();
+Public void yearsPassess(){
+
+//Increment the prson's age
+
+}
+
+public static void main(string[]args {
+
+
+
+
+}
+
+}
+}
