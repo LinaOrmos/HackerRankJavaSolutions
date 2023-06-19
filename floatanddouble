@@ -6,3 +6,17 @@ float variable=3.5
 #error while declaring the variable
 }
 }
+// So we ad an f at the end
+Public class ExampleVariable{
+public static void main(string[] args){
+float variable=3.5f
+    System.out.println(variable);
+}
+}
+//we can make operations also
+Public class ExampleVariable{
+public static void main(string[] args){
+float variable=3.5e2f
+    System.out.println(variable);
+}
+}
