@@ -20,3 +20,12 @@ float variable=3.5e2f
     System.out.println(variable);
 }
 }
+//now we print the double variable we create
+Public class ExampleVariable{
+public static void main(string[] args){
+float variable=3.5fe2f
+    System.out.println(variable);
+double variable2=4.87
+System.out.println(variable2);
+}
+}
