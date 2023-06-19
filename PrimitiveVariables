@@ -10,5 +10,6 @@ byte c=25;
 
 System.out.println("the sum is: "+(a+b+c));
 }
-
+#we have to becareful withthe division because it may 
+#generate errros if we mix the types of variable
 }
