@@ -1,0 +1,11 @@
+//Considering te data types
+//that we can use in JAVA
+//We are goingto make an example for printing 
+//different Data Trypes
+//First we start the code 
+
+ public class DataTypesExamples{
+public static void main(String[] args)
+
+
+}
