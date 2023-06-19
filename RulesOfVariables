@@ -1,7 +1,8 @@
 //Java is cases-sensitive
 //Start your variable always with a letter
 //Don't use accents
-//The name of your variable shouldn't be a reserved keyword
+//The name of your variable shouldn't be a
+//reserved keyword
 public class VariableExamples{
 public class void (String[] args){
 int edad=9;
