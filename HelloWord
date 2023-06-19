@@ -7,7 +7,7 @@
 public class HelloWord[{
 //static void means it's only going to execute the insinde
 public static void main(String[] args){
-
+System.out.println("Hello Word");
 
 }
 }
