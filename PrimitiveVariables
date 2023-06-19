@@ -1,0 +1,13 @@
+//this is anexamples fot the rules of
+//the primitive variables
+//They are used for logical opperations
+public class PrimitiveVariables(){
+
+public static void main(string [] args){
+int a=10;
+long b=20;
+byte c=25;
+
+}
+
+}
