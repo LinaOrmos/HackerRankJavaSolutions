@@ -12,10 +12,14 @@ System.out.println(symbol2);
 //CAR
 char symbol3 ='%';
 #we add
+#15# escape sequences in java
 System.out.println(symbol3);
 char Ln='\n';
 char bln='\b';
 char tab='\t';
+char startln='\r';
+char newPage='\f'
+char quotation='\"';
 
 }
 }
