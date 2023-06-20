@@ -1,0 +1,16 @@
+//This are the 3 manners in which
+//Java allows Char variables 
+//Char stores one char in each variable
+public class Examples of char variables{
+public static void main(String[] args){
+// UNICODE
+
+//ASCII
+
+//CAR
+char symbol ='%';
+System.out.println(symbol);
+
+
+}
+}
