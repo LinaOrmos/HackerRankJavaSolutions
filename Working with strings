@@ -1,0 +1,19 @@
+//We are going to learn more about strings 
+
+
+public class Examples of char variables{
+public static void main(String[] args){
+// UNICODE
+char symbol1= '\u0026';
+System.out.println(symbol1);
+//ASCII
+char symbol2=36;
+System.out.println(symbol2);
+//CAR
+char symbol3 ='%';
+#we add
+System.out.println(symbol3);
+char Ln='n'
+
+}
+}
