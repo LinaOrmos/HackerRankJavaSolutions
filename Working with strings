@@ -13,7 +13,9 @@ System.out.println(symbol2);
 char symbol3 ='%';
 #we add
 System.out.println(symbol3);
-char Ln='n'
+char Ln='\n';
+char bln='\b';
+char tab='\t';
 
 }
 }
