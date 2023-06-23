@@ -1,1 +1,10 @@
+//First we start the code
+public class VariableExamples {   
+public static void main(String[] args) {
+int num=500;
+System.out.println("The number is:"+ num);
+String binnum= Integer.toBinaryString(num);
+System.out.println("The binary number is: "+binnum);
+}
 
+}
