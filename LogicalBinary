@@ -1,0 +1,9 @@
+\\First we start the program
+
+public class VariableExammpes{
+    public static void main(String[] args){
+    boolean condicion=false;
+
+    
+    }
+}
