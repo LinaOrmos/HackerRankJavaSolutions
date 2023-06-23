@@ -11,7 +11,7 @@ System.out.println("Number in Hexadecimal:" +Integer.toHexString(num));
 //0x for Hex
 System.out.println("The hex number in Java: "+0x1F4);
 System.out.println("Number in Oct: "+Integer.toOctalString(num));
-//0 for Oct  12` 
+//0 for Oct
 System.out.println("The octal number in Java: " +0764);
 }
 
