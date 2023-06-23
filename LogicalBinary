@@ -3,7 +3,7 @@
 public class VariableExammpes{
     public static void main(String[] args){
     boolean condicion=false;
-    boolean verify= 4==2+1:
+    boolean verify= 4==2+1: #4==2+2 for true printing
        System.out.println(verify);
     
     }
