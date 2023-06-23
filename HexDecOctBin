@@ -6,7 +6,7 @@ System.out.println("The number is:"+ num);
 String binnum= Integer.toBinaryString(num);
 System.out.println("The binary number is: "+binnum);
 //0b for Binary
-System.out.println("The Binary number in Java: "+0b111000010);
+System.out.println("The Binary number in Java: "+0b111110100);
 System.out.println("Number in Hexadecimal:" +Integer.toHexString(num));
 //0x for Hex
 System.out.println("The hex number in Java: "+0x1F4);
