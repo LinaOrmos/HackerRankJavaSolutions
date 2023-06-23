@@ -1,0 +1,25 @@
+//We are going to create a Scanner for reading
+//The number we'll convert
+
+Import java.util.Scanner;
+public class VariableExamples {   
+public static void main(String[] args) {
+//we add the scanner
+Scanner entry = new Scanner(System.in);
+
+System.out.println("Introduce un numero entero");
+int rnum= entry.nextInt();
+System.out.println("Our number is:" +rnum;
+String binnum= Integer.toBinaryString(rnum);
+System.out.println("The binary number is: "+binnum);
+//0b for Binary
+System.out.println("The Binary number in Java: "+0b111110100);
+System.out.println("Number in Hexadecimal:" +Integer.toHexString(rnum));
+//0x for Hex
+System.out.println("The hex number in Java: "+0x1F4);
+System.out.println("Number in Oct: "+Integer.toOctalString(rnum));
+//0 for Oct
+System.out.println("The octal number in Java: " +0764);
+}
+
+}
