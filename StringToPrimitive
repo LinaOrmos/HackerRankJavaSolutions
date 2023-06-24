@@ -1,0 +1,19 @@
+public class VariablExamples{
+     public static void main(String[] args){
+     String boolean="true";
+     boolean BooleeanConverted=Boolean.parseBoolean(boolean);
+        System.out.println(BooleanConverted);
+     String dec="2.56";
+     double decConverted=Double.parseDouble(dec);
+        System.out.println(decConverted);
+     String num="395";
+     int numConverted=Integer.parseInt(num);
+       System.out.println(numConverted);
+     String float="2.56e2f";
+     float floatConverted=Float.parseFloat(float);
+       System.out.println(floatConverted);
+
+
+}
+
+}
