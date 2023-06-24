@@ -1,0 +1,14 @@
+//We are going to change te data type
+//Between int, short, long and char 
+
+public class VariableExamples
+    public static void main(String[] args){
+    int i = 300;
+    short s=(short)1;
+        System.out.println(s);
+        long l=1;
+        System.out.println(l);
+        char c=(char)1;
+        System.out.println(c);
+  }
+}
