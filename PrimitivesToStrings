@@ -1,0 +1,18 @@
+//We are goiing to convert de 
+//Data type from the 
+//primitives to the string data tyype
+//first we start the code
+public class VariableExamples {
+  public static void main(String[] args){
+  boolean real=true;
+  String realConverted=Boolean.toString(real);
+  int in=5687;
+String inConverted=Integer.toString(in);
+  float flotante=4.85e2f;
+String flotanteConverted=Integer.toString(flotante);
+  double dec= 3.456;
+String decConverted=Integer.toString(dec);
+String msn = realConverted="\n"+inConverted+"\n"+flotanteConverted+"\n"+decConverted;
+    System.out.println(msn);
+   }
+}
