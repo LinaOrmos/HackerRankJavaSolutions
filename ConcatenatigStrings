@@ -2,7 +2,7 @@
 
 public class WorkingwithStrings {
     public static void main(String[] args {
-        String hello= "Hello, thanks for the info";
+        String hello= "Hello, thanks for the info ";
         String Name="Lina";
         String personalizedGreeting=hello+Name;
         System.out..println(personalizedGreeting);
