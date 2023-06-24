@@ -1,7 +1,7 @@
 //We are going to change te data type
 //Between int, short, long and char 
 
-public class VariableExamples
+public class VariableExamples {
     public static void main(String[] args){
     int i = 300;
     short s=(short)1;
