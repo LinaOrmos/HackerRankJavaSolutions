@@ -1,0 +1,14 @@
+//First we are going to use the chain of characters 
+
+public class ProgrammingStrings {
+   public static void main(String[] args) {
+       String Hello="Hello, thanks for the information";
+       String Hello1="Hello, thanks for the information";
+       System.out.println(Hello);
+       System.out.println(Hello1);
+       System.out.println(Hello==Hello1);
+// It prints true
+
+}
+
+}
