@@ -8,6 +8,7 @@ public class VariableExamples {
         System.out.println(s);
         long l=1;
         System.out.println(l);
+//char returns a character data type
         char c=(char)1;
         System.out.println(c);
   }
