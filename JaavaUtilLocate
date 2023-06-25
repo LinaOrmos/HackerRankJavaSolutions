@@ -1,0 +1,10 @@
+import java.util.locate;
+
+public class UsingStrings{
+    public static void main(String[] args){
+        string Name="Lina";
+        System.out.println(Name.toUpperCase(Locate.ROOt));
+        System.out.println(Name.toLowerCase(Locate.ROOT));
+}
+
+}
