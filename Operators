@@ -1,0 +1,26 @@
+//We are going to use the 
+//Increase and decrease operators
+
+public class Operators{
+public static void main(String[] args) {
+//aritmetical operators of increase and decrease 
+int a=5;
+//increases in one and then returns the number
+int b=++a;
+System.out.println(b);
+//Returns the number and then increases one
+a=5;
+int c=a++;
+System.out.println(c);
+//Decreases in one and then it returns the number
+a=5;
+int d=--a;
+System.out.println(d);
+//Returns the number and then increases in one
+a=5;
+int e=a--;
+System.out.println(e);
+System.out.println(a);
+    
+}
+}
