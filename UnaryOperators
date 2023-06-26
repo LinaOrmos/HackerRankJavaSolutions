@@ -1,0 +1,15 @@
+//We are going to print the values
+//of j and m using the unary operators
+
+public class OPERATORS {
+    public static void main(String[] args){
+        //unary operators
+        int i=-2;
+        int j= -1;
+        System.out.println(j);
+        int k=-4;
+        int m=+k;
+        System.out.println(m);
+    }
+    
+}
