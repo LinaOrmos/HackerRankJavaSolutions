@@ -1,0 +1,23 @@
+//in this code we have diifferent
+//examples of the aritmetical operators
+//the program prints the different operations
+//and prints the result
+
+public class Operators {
+    public static void main(String[] args){
+        int a=5, b=7;
+        int sum=a+b;
+        int rest=a-b;
+        int multiplication=a*b;
+        float div=(float)a/(float)b;
+        int mod= a%b;
+        System.out.println("sum "+sum);
+        System.out.println("rest "+rest);
+        System.out.println("multiplication "+multiplication);
+        System.out.println("Division "+div);
+        System.out.println("module "+mod);
+    }
+    
+    
+    
+}
