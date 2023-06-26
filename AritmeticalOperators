@@ -1,0 +1,12 @@
+//We are going to change the value of i
+//using the aritmetical operators
+public class Operatorss {
+    public static void main(String[] args) { 
+    //aritmetical operators of asignation
+    int i=5;
+    int j=i=2;
+    i+=2;
+    System.out.println(i);
+    
+}
+}
