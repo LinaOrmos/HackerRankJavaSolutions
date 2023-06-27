@@ -1,0 +1,23 @@
+//Using the logical operators
+//we are going to create a 
+//program that asks for user and password
+import java.util.Scanner;
+public class Operators{
+    public static void main(String[] args) {
+        String user="Lina";
+        String pass="12345";
+        Scanner entry = new Scanner(System.in);
+        System.out.println("username");
+        String u=entry.nextLine();
+        System.out.println("Password");
+        String p=entry.nextLine();
+        
+        if(user.equals(u)&&pass.equals(p)){
+            System.out.println("Welcome");
+            
+        }
+        else{
+            System.out.println("Error");
+        }
+    }
+}
