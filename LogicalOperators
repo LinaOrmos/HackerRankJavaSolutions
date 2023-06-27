@@ -1,0 +1,15 @@
+//Examples of logical operators
+public class Operators{
+    public static void main(String[] args){
+        //logical operators
+        int a=7, b=5;
+        boolean lie= false;
+        boolean r1= a>b || a==b;
+        boolean r2=a>b && lie==true;
+        System.out.println(r1);
+        System.out.println(r2);
+        
+    }
+    
+    
+}
