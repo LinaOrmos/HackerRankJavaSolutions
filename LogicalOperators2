@@ -1,0 +1,16 @@
+//We have some examples of logical operators
+public class Operators{
+    public static void main(String[] args){
+        //logical operators
+        int a=7, b=5;
+        boolean lie= false;
+        //we can add more logical operators
+        boolean r1= (a>b || a==b) || (lie==false);
+        boolean r2=a>b && lie==true;
+        System.out.println(r1);
+        System.out.println(r2);
+        
+    }
+    
+    
+}
