@@ -1,0 +1,18 @@
+//We are going to use InstanceOf
+
+public class Operators {
+public static void main(String[] args){
+    
+    String text = "Hello, how are you?";
+    Integer num= 6;
+    boolean b= text instanceof String;
+    System.out.println(b);
+    //It is an instace inside a class
+    b= num instanceof Integer;
+    System.out.println(b);
+    b= num instanceof Object;
+    System.out.println(b);
+    
+}
+
+}
