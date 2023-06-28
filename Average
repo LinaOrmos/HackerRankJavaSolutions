@@ -1,0 +1,15 @@
+//We are going to change the average value with operators
+
+public class Operators {
+public static void main(String[] args){
+    
+    int a=10;
+    int b=5;
+    int c=5;
+    
+    double average=(++a +b-- +c)/3d;
+    System.out.println(average);
+    
+}
+
+}
