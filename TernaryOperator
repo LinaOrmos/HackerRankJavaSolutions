@@ -1,0 +1,21 @@
+//We are going to use Ternary operators
+//To create a program that
+//tells you if you scored or failed 
+
+import java.util.Scanner;
+public class Operators{
+    public static void main(String[] args) {
+        
+        Scanner entry = new Scanner(System.in);
+        System.out.println("Introduce your score");
+        double u=entry.nextDouble();
+        
+        if(u>=6){
+            System.out.println("You scored");
+            
+        }
+        else{
+            System.out.println("You Failed");
+        }
+    }
+}
