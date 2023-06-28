@@ -1,0 +1,18 @@
+import java.util.Scanner;
+public class Operators{
+    public static void main(String[] args) {
+        
+        Scanner entry = new Scanner(System.in);
+        System.out.println("Introduce the first number");
+        int a=entry.nextInt();
+        System.out.println("Introduce the second number");
+        int b=entry.nextInt();
+        System.out.println("Introduce the third number");
+        int c=entry.nextInt();
+        //the ternary operators
+        int max;
+        max=(a>b)? a:b;
+        max=(max>c)? max:c;
+        System.out.println("the max number is: "+max);
+    }
+}
