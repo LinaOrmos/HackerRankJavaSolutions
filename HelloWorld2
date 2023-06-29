@@ -1,0 +1,7 @@
+//Second version of the code
+//that prints hello world
+public class HelloWorld {
+    public static void main(String args[]){
+        System.out.println("Hello World!");
+    }
+}
