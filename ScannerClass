@@ -1,0 +1,14 @@
+//We are going to use the 
+//scanner class for 
+//pronting a name
+
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+      System.out.println("Give me your name");
+      Scanner console = new Scanner(System.in);
+      var user = console.nextLine();
+      System.out.println("User= " +user );
+}
+}
